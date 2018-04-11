@@ -1,0 +1,2 @@
+This is a test for starting git and github.
+I'm learning how to use git by 'Introduction - Git and GitHub for Poets'.
