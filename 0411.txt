@@ -1,9 +1,8 @@
 This is a test for starting git and github.
-I'm learning how to use git by 'Introduction - Git and GitHub for Poets'.
+I'm learning how to use git and github by 'Introduction - Git and GitHub for Poets' posted by 'The Coding Train .
 I want to finish this homework today!
 I made a new branch, 'tea-pot'. 
-peter-pepper
-This time, I made a new branch, "peter-pepper
-
-There is a new branch, 'peter-pepper'.
- master
+And then, I made a new branch, 'peter-pepper'.
+I use merge request also, but I failed.
+Therefore I edited my file '0411.txt'
+This time, I'm gonna learn Forks and Pull Requests for our deep learning project.
